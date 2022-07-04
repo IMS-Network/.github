@@ -1,12 +1,6 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# שלום לכולם 👋
+שלום, אנחנו IMS - Network. 👋
+אנחנו קבוצה של אנשים שמשקיעה זמן בשיפור השרתים שלנו ובקהילת המשחקים הישראלית. ✌️
+אנחנו בונים, מפתחים, ומתחזקים
+שרתי משחקים בחינם לכולם.😇
+כל הצוות שלנו עושה זאת ברצון, המטרה שלנו היא לכסות כמה שיותר משחקים ולדאוג לאיכות ובטיחות המשחק הטובה ביותר. 🤩

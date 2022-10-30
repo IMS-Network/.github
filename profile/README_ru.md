@@ -134,19 +134,19 @@
 </p>
 <div align="center">
 <h2>Read It in your Language 🗺</h2>
-    <a href="README.md">
+    <a href="profile/README.md">
     <img alt="עברית" title="עברית" 
     src="photos/israel.svg"/>
     </a>
-    <a href="README_ar.md">
+    <a href="profile/README_ar.md">
     <img alt="Arabic" title="عربي" 
     src="photos/UAE.svg"/>
     </a>
-    <a href="README_en.md">
+    <a href="profile/README_en.md">
     <img alt="English" title="English" 
     src="photos/us.svg"/>
     </a>
-    <a href="README_au.md">
+    <a href="profile/README_au.md">
     <img alt="Ukraine" title="Україна #ЗаУкраїну" 
     src="photos/Ukraine.svg"/>
     </a>

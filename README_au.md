@@ -1,20 +1,21 @@
 <!-- Welcome Text -->
 <div align="center">
-<h1 style="font-size:40px">أهلا وسهلا <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+<h1 style="font-size:40px">Ласкаво просимо <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 </h1>
+<h2 style="font-size:25px"><a href="https://ukraine.ua/">#ЗаУкраїну 💘</a></h2>
 <div>
 <p align="center">
 
-نحن IMS - Network. 👋 \
-مجتمع الألعاب الأكثر تقدمًا في إسرائيل 🌐 \
-نحن مجموعة من الأشخاص الذين نستثمر الوقت في تحسين خوادمنا ومجتمع الألعاب الإسرائيلي. ✌️ \
-نحن نبني ونطور ونحافظ على مجتمع ألعاب متقدم.
-يقوم كل فريقنا بذلك عن طيب خاطر ، وهدفنا هو تغطية أكبر عدد ممكن من الألعاب وضمان أفضل جودة وأمان للعبة. 🤩 \
-مجتمع الألعاب الوحيد في إسرائيل الذي يضع الخصوصية والأمان في المقام الأول. 🔐
+Ми IMS - мережа. 👋\
+Найдосконаліша ігрова спільнота в Ізраїлі 🌐\
+Ми — група людей, які витрачають час на вдосконалення наших серверів і ізраїльської ігрової спільноти. ✌️\
+Ми будуємо, розвиваємо та підтримуємо передову ігрову спільноту.😇\
+Вся наша команда робить це охоче, наша мета - охопити якомога більше ігор і забезпечити найкращу якість і безпеку гри. 🤩\
+Єдина ігрова спільнота в Ізраїлі, яка ставить конфіденційність і безпеку на перше місце. 🔐
 
 </p>
 
-<h2 align="right">اتصل بنا 📞</h2>
+<h2 align="left">Зв'яжіться з нами 📞</h2>
 <p align="center">
     <a href="https://twitter.com/network_ims">
     <img alt="Twitter" title="Twitter" 
@@ -45,7 +46,7 @@
     </a>
 </p>
 
-<h2 align="right">مواقعنا 🌐</h2>
+<h2 align="left">Наші сайти 🌐</h2>
 <p align="center">
     <a href="https://open-source.ims-network.net">
     <img alt="OSS Copytight Website" title="OSS Copytight Website" 
@@ -78,9 +79,9 @@
 </p>
 
 <div align="center">
-<h1 style="font-size:25px">مشاريعنا 🦾</h1>
+<h1 style="font-size:25px">Наші проекти 🦾</h1>
 </div>
-<h2 align="right">تطوير ماين كرافت ⚒</h2>
+<h2 align="left">Майнкрафт Розробка ⚒</h2>
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="278" 
@@ -94,7 +95,7 @@
     </a>
 </p>
 
-<h2 align="right">فايف ام للتنمية 🏙</h2>
+<h2 align="left">FiveM Development 🏙</h2>
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="278" 
@@ -103,7 +104,7 @@
     </a>
 </p>
 
-<h2 align="right">تطوير الشبكة 🌐</h2>
+<h2 align="left">Веб-розробка 🌐</h2>
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="278" 
@@ -137,16 +138,16 @@
     <img alt="עברית" title="עברית" 
     src="photos/israel.svg"/>
     </a>
-    <a href="profile/README_en.md">
-    <img alt="English" title="English" 
-    src="photos/us.svg"/>
+    <a href="README_ar.md">
+    <img alt="Arabic" title="عربي" 
+    src="photos/UAE.svg"/>
     </a>
-    <a href="profile/README_ru.md">
+    <a href="README_ru.md">
     <img alt="Russian" title="русские #нетвойны" 
     src="photos/Russia.svg"/>
     </a>
-    <a href="profile/README_au.md">
-    <img alt="Ukraine" title="Україна #ЗаУкраїну" 
-    src="photos/Ukraine.svg"/>
+    <a href="README_en.md">
+    <img alt="English" title="English" 
+    src="photos/us.svg"/>
     </a>
 </div>

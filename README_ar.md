@@ -1,20 +1,20 @@
 <!-- Welcome Text -->
 <div align="center">
-<h1 style="font-size:40px">Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+<h1 style="font-size:40px">أهلا وسهلا <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 </h1>
 <div>
 <p align="center">
 
-We are IMS - Network. 👋\
-The Most Advanced Gaming Community In Israel 🌐\
-We are a group of people who invest time in improving our servers and the Israeli gaming community. ✌️\
-We build, develop, and maintain an advanced gaming community.😇\
-All of our team does it willingly, our goal is to cover as many games as possible and ensure the best quality and safety of the game. 🤩\
-The only gaming community in Israel that puts privacy and safety first. 🔐
+نحن IMS - Network. 👋 \
+مجتمع الألعاب الأكثر تقدمًا في إسرائيل 🌐 \
+نحن مجموعة من الأشخاص الذين نستثمر الوقت في تحسين خوادمنا ومجتمع الألعاب الإسرائيلي. ✌️ \
+نحن نبني ونطور ونحافظ على مجتمع ألعاب متقدم.
+يقوم كل فريقنا بذلك عن طيب خاطر ، وهدفنا هو تغطية أكبر عدد ممكن من الألعاب وضمان أفضل جودة وأمان للعبة. 🤩 \
+مجتمع الألعاب الوحيد في إسرائيل الذي يضع الخصوصية والأمان في المقام الأول. 🔐
 
 </p>
 
-<h2 align="left">Contact Us 📞</h2>
+<h2 align="right">اتصل بنا 📞</h2>
 <p align="center">
     <a href="https://twitter.com/network_ims">
     <img alt="Twitter" title="Twitter" 
@@ -45,7 +45,7 @@ The only gaming community in Israel that puts privacy and safety first. 🔐
     </a>
 </p>
 
-<h2 align="left">Our Websites 🌐</h2>
+<h2 align="right">مواقعنا 🌐</h2>
 <p align="center">
     <a href="https://open-source.ims-network.net">
     <img alt="OSS Copytight Website" title="OSS Copytight Website" 
@@ -78,9 +78,9 @@ The only gaming community in Israel that puts privacy and safety first. 🔐
 </p>
 
 <div align="center">
-<h1 style="font-size:25px"> Our Projects 🦾</h1>
+<h1 style="font-size:25px">مشاريعنا 🦾</h1>
 </div>
-<h2 align="left">Minecraft Development ⚒</h2>
+<h2 align="right">تطوير ماين كرافت ⚒</h2>
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="278" 
@@ -94,7 +94,7 @@ The only gaming community in Israel that puts privacy and safety first. 🔐
     </a>
 </p>
 
-<h2 align="left">FiveM Development 🏙</h2>
+<h2 align="right">فايف ام للتنمية 🏙</h2>
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="278" 
@@ -103,7 +103,7 @@ The only gaming community in Israel that puts privacy and safety first. 🔐
     </a>
 </p>
 
-<h2 align="left">Web Development 🌐</h2>
+<h2 align="right">تطوير الشبكة 🌐</h2>
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="278" 
@@ -137,15 +137,15 @@ The only gaming community in Israel that puts privacy and safety first. 🔐
     <img alt="עברית" title="עברית" 
     src="photos/israel.svg"/>
     </a>
-    <a href="profile/README_ar.md">
-    <img alt="Arabic" title="عربي" 
-    src="photos/UAE.svg"/>
+    <a href="README_en.md">
+    <img alt="English" title="English" 
+    src="photos/us.svg"/>
     </a>
-    <a href="profile/README_ru.md">
+    <a href="README_ru.md">
     <img alt="Russian" title="русские #нетвойны" 
     src="photos/Russia.svg"/>
     </a>
-    <a href="profile/README_au.md">
+    <a href="README_au.md">
     <img alt="Ukraine" title="Україна #ЗаУкраїну" 
     src="photos/Ukraine.svg"/>
     </a>

@@ -1,6 +1,6 @@
 <!-- Welcome Text -->
 <div align="center">
-<h1 style="font-size:40px">Ласкаво просимо <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+<h1 style="font-size:40px">Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 </h1>
 <div>
 <p align="center">

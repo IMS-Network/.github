@@ -150,7 +150,3 @@
     src="photos/Ukraine.svg"/>
     </a>
 </div>
-
-
-***
-# Hello Everyone 👋

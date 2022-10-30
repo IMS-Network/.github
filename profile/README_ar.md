@@ -1,20 +1,20 @@
-
 <!-- Welcome Text -->
 <div align="center">
-<h1 style="font-size:40px">ברוכים הבאים <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+<h1 style="font-size:40px">أهلا وسهلا <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 </h1>
 <div>
 <p align="center">
 
-אנחנו IMS - Network. 👋\
-קהילת הגיימינג הכי מתקדמת בישראל 🌐\
-אנחנו קבוצה של אנשים שמשקיעה זמן בשיפור השרתים שלנו ובקהילת המשחקים הישראלית. ✌️\
-אנחנו בונים, מפתחים, ומתחזקים קהילת משחקים מתקדמת.😇\
-כל הצוות שלנו עושה זאת ברצון, המטרה שלנו היא לכסות כמה שיותר משחקים ולדאוג לאיכות ובטיחות המשחק הטובה ביותר. 🤩\
-קהילת הגיימינג היחידה בישראל ששומרת על פרטיות ובטיחות השחקנים 🔐
+نحن IMS - Network. 👋 \
+مجتمع الألعاب الأكثر تقدمًا في إسرائيل 🌐 \
+نحن مجموعة من الأشخاص الذين نستثمر الوقت في تحسين خوادمنا ومجتمع الألعاب الإسرائيلي. ✌️ \
+نحن نبني ونطور ونحافظ على مجتمع ألعاب متقدم.
+يقوم كل فريقنا بذلك عن طيب خاطر ، وهدفنا هو تغطية أكبر عدد ممكن من الألعاب وضمان أفضل جودة وأمان للعبة. 🤩 \
+مجتمع الألعاب الوحيد في إسرائيل الذي يضع الخصوصية والأمان في المقام الأول. 🔐
+
 </p>
 
-<h2 align="right">צרו קשר 📞</h2>
+<h2 align="right">اتصل بنا 📞</h2>
 <p align="center">
     <a href="https://twitter.com/network_ims">
     <img alt="Twitter" title="Twitter" 
@@ -45,42 +45,42 @@
     </a>
 </p>
 
-<h2 align="right">אתרים שלנו 🌐</h2>
+<h2 align="right">مواقعنا 🌐</h2>
 <p align="center">
     <a href="https://open-source.ims-network.net">
-    <img alt="אתר תודות וזכויות יוצרים" title="אתר תודות וזכויות יוצרים" 
+    <img alt="OSS Copytight Website" title="OSS Copytight Website" 
     src="photos/copyright.svg"/>
     </a>
     <a href="https://mc-web.ims-network.net">
-    <img alt="שרתי מיינקראפט" title="שרתי מיינקראפט" 
+    <img alt="Minecraf Servers" title="Minecraf Servers" 
     src="photos/minecraft.svg"/>
     </a>
     <a href="https://alfine.ims-network.net/">
-    <img alt="פרוייקט אלפיין" title="פרוייקט אלפיין"
+    <img alt="Project Alfine" title="Project Alfine"
     src="photos/alfine.svg"/>
     </a>
     <a href="https://status.ims-network.org/">
-    <img alt="סטטוס שירות" title="סטטוס שירות"
+    <img alt="Server Status" title="Server Status"
     src="photos/sos.svg"/>
     </a>
     <a href="https://fivem-web.ims-network.net">
-    <img alt="שרתי פייבאם" title="שרתי פייבאם"
+    <img alt="FiveM Servers" title="FiveM Servers"
     src="photos/fivem.svg"/>
     </a>
     <a href="https://devs.ims-network.net">
-    <img alt="אתר מפתחים" title="אתר מפתחים"
+    <img alt="Devs Website" title="Devs Website"
     src="photos/devs.svg"/>
     </a>
     <a href="https://legal.ims-network.net">
-    <img alt="התקנון שלנו" title="התקנון שלנו"
+    <img alt="Legal Info" title="Legal Info"
     src="photos/legal.svg"/>
     </a>
 </p>
 
 <div align="center">
-<h1 style="font-size:25px">פרוייקטים שלנו 🦾</h1>
+<h1 style="font-size:25px">مشاريعنا 🦾</h1>
 </div>
-<h2 align="right">פיתוח מיינקראפט ⚒</h2>
+<h2 align="right">تطوير ماين كرافت ⚒</h2>
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="278" 
@@ -94,7 +94,7 @@
     </a>
 </p>
 
-<h2 align="right">פיתוח פייבאם 🏙</h2>
+<h2 align="right">فايف ام للتنمية 🏙</h2>
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="278" 
@@ -103,7 +103,7 @@
     </a>
 </p>
 
-<h2 align="right">פיתוח אתרים 🌐</h2>
+<h2 align="right">تطوير الشبكة 🌐</h2>
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="278" 
@@ -133,13 +133,13 @@
 </p>
 <div align="center">
 <h2>Read It in your Language 🗺</h2>
+    <a href="README.md">
+    <img alt="עברית" title="עברית" 
+    src="photos/israel.svg"/>
+    </a>
     <a href="README_en.md">
     <img alt="English" title="English" 
     src="photos/us.svg"/>
-    </a>
-    <a href="README_ar.md">
-    <img alt="Arabic" title="عربي" 
-    src="photos/UAE.svg"/>
     </a>
     <a href="README_ru.md">
     <img alt="Russian" title="русские #нетвойны" 
@@ -150,7 +150,3 @@
     src="photos/Ukraine.svg"/>
     </a>
 </div>
-
-
-***
-# Hello Everyone 👋

@@ -1,86 +1,87 @@
 <!-- Welcome Text -->
 <div align="center">
-<h1 style="font-size:40px">Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+<h1 style="font-size:40px">Добро пожаловать <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 </h1>
+<h2 style="font-size:25px">#нетвойны ⛔</h2>
 <div>
 <p align="center">
 
-We are IMS - Network. 👋\
-The Most Advanced Gaming Community In Israel 🌐\
-We are a group of people who invest time in improving our servers and the Israeli gaming community. ✌️\
-We build, develop, and maintain an advanced gaming community.😇\ 
-All of our team does it willingly, our goal is to cover as many games as possible and ensure the best quality and safety of the game. 🤩\
-The only gaming community in Israel that puts privacy and safety first. 🔐
+Мы IMS - Сеть. 👋\
+Самое продвинутое игровое сообщество в Израиле 🌐\
+Мы группа людей, которые вкладывают время в улучшение наших серверов и игрового сообщества Израиля. ✌️\
+Мы создаем, развиваем и поддерживаем продвинутое игровое сообщество.😇\
+Вся наша команда делает это охотно, наша цель — охватить как можно больше игр и обеспечить наилучшее качество и безопасность игры. 🤩\
+Единственное игровое сообщество в Израиле, которое ставит конфиденциальность и безопасность на первое место. 🔐
 
 </p>
 
-<h2 align="left">Contact Us 📞</h2>
+<h2 align="left">Свяжитесь с нами 📞</h2>
 <p align="center">
     <a href="https://twitter.com/network_ims">
     <img alt="Twitter" title="Twitter" 
-    src="twitter.svg"/>
+    src="photos/twitter.svg"/>
     </a>
     <a href="https://www.instagram.com/ims__network/">
     <img alt="Instagram" title="Instagram" 
-    src="Instagram.svg"/>
+    src="photos/Instagram.svg"/>
     </a>
     <a href="https://discord.gg/QzGBm33CeM">
     <img alt="Discord" title="Discord" 
-    src="discord.svg"/>
+    src="photos/discord.svg"/>
     <a href="https://ims-network.org">
     <img alt="Website" title="Our Webstie" 
-    src="web.svg"/>
+    src="photos/web.svg"/>
     </a>
     <a href="https://www.reddit.com/r/IMS_Network/">
     <img alt="Reddit" title="Reddit" 
-    src="reddit.svg"/>
+    src="photos/reddit.svg"/>
     </a>
     <a href="https://www.facebook.com/IMSNetworkOfficial">
     <img alt="Facebook" title="Facebook" 
-    src="facebook.svg"/>
+    src="photos/facebook.svg"/>
     </a>
     <a href="mailto:team@ims-network.net?subject=[GitHub]">
     <img alt="Email" title="Email" 
-    src="email.svg"/>
+    src="photos/email.svg"/>
     </a>
 </p>
 
-<h2 align="left">Our Websites 🌐</h2>
+<h2 align="left">Наши сайты 🌐</h2>
 <p align="center">
     <a href="https://open-source.ims-network.net">
     <img alt="OSS Copytight Website" title="OSS Copytight Website" 
-    src="copyright.svg"/>
+    src="photos/copyright.svg"/>
     </a>
     <a href="https://mc-web.ims-network.net">
     <img alt="Minecraf Servers" title="Minecraf Servers" 
-    src="minecraft.svg"/>
+    src="photos/minecraft.svg"/>
     </a>
     <a href="https://alfine.ims-network.net/">
     <img alt="Project Alfine" title="Project Alfine"
-    src="alfine.svg"/>
+    src="photos/alfine.svg"/>
     </a>
     <a href="https://status.ims-network.org/">
     <img alt="Server Status" title="Server Status"
-    src="sos.svg"/>
+    src="photos/sos.svg"/>
     </a>
     <a href="https://fivem-web.ims-network.net">
     <img alt="FiveM Servers" title="FiveM Servers"
-    src="fivem.svg"/>
+    src="photos/fivem.svg"/>
     </a>
     <a href="https://devs.ims-network.net">
     <img alt="Devs Website" title="Devs Website"
-    src="devs.svg"/>
+    src="photos/devs.svg"/>
     </a>
     <a href="https://legal.ims-network.net">
     <img alt="Legal Info" title="Legal Info"
-    src="legal.svg"/>
+    src="photos/legal.svg"/>
     </a>
 </p>
 
 <div align="center">
-<h1 style="font-size:25px"> Our Projects 🦾</h1>
+<h1 style="font-size:25px">Наши проекты 🦾</h1>
 </div>
-<h2 align="left">Minecraft Development ⚒</h2>
+<h2 align="left">Разработка Майнкрафт ⚒</h2>
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="278" 
@@ -94,7 +95,7 @@ The only gaming community in Israel that puts privacy and safety first. 🔐
     </a>
 </p>
 
-<h2 align="left">FiveM Development 🏙</h2>
+<h2 align="left">ПятьМ Девелопмент 🏙</h2>
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="278" 
@@ -103,7 +104,7 @@ The only gaming community in Israel that puts privacy and safety first. 🔐
     </a>
 </p>
 
-<h2 align="left">Web Development 🌐</h2>
+<h2 align="left">Веб-разработка 🌐</h2>
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="278" 
@@ -133,20 +134,20 @@ The only gaming community in Israel that puts privacy and safety first. 🔐
 </p>
 <div align="center">
 <h2>Read It in your Language 🗺</h2>
-    <a href="README_en.md">
-    <img alt="English" title="English" 
-    src="us.svg"/>
+    <a href="README.md">
+    <img alt="עברית" title="עברית" 
+    src="photos/israel.svg"/>
     </a>
     <a href="README_ar.md">
     <img alt="Arabic" title="عربي" 
-    src="UAE.svg"/>
+    src="photos/UAE.svg"/>
     </a>
-    <a href="README_ru.md">
-    <img alt="Russian" title="русские #нетвойны" 
-    src="Russia.svg"/>
+    <a href="README_en.md">
+    <img alt="English" title="English" 
+    src="photos/us.svg"/>
     </a>
     <a href="README_au.md">
     <img alt="Ukraine" title="Україна #ЗаУкраїну" 
-    src="assets/Ukraine.svg"/>
+    src="photos/Ukraine.svg"/>
     </a>
 </div>

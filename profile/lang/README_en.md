@@ -1,86 +1,86 @@
-
 <!-- Welcome Text -->
 <div align="center">
-<h1 style="font-size:40px">ברוכים הבאים <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+<h1 style="font-size:40px">Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 </h1>
 <div>
 <p align="center">
 
-אנחנו IMS - Network. 👋\
-קהילת הגיימינג הכי מתקדמת בישראל 🌐\
-אנחנו קבוצה של אנשים שמשקיעה זמן בשיפור השרתים שלנו ובקהילת המשחקים הישראלית. ✌️\
-אנחנו בונים, מפתחים, ומתחזקים קהילת משחקים מתקדמת.😇\
-כל הצוות שלנו עושה זאת ברצון, המטרה שלנו היא לכסות כמה שיותר משחקים ולדאוג לאיכות ובטיחות המשחק הטובה ביותר. 🤩\
-קהילת הגיימינג היחידה בישראל ששומרת על פרטיות ובטיחות השחקנים 🔐
+We are IMS - Network. 👋\
+The Most Advanced Gaming Community In Israel 🌐\
+We are a group of people who invest time in improving our servers and the Israeli gaming community. ✌️\
+We build, develop, and maintain an advanced gaming community.😇\ 
+All of our team does it willingly, our goal is to cover as many games as possible and ensure the best quality and safety of the game. 🤩\
+The only gaming community in Israel that puts privacy and safety first. 🔐
+
 </p>
 
-<h2 align="right">צרו קשר 📞</h2>
+<h2 align="left">Contact Us 📞</h2>
 <p align="center">
     <a href="https://twitter.com/network_ims">
     <img alt="Twitter" title="Twitter" 
-    src="assets/twitter.svg"/>
+    src="twitter.svg"/>
     </a>
     <a href="https://www.instagram.com/ims__network/">
     <img alt="Instagram" title="Instagram" 
-    src="assets/Instagram.svg"/>
+    src="Instagram.svg"/>
     </a>
     <a href="https://discord.gg/QzGBm33CeM">
     <img alt="Discord" title="Discord" 
-    src="assets/discord.svg"/>
+    src="discord.svg"/>
     <a href="https://ims-network.org">
     <img alt="Website" title="Our Webstie" 
-    src="assets/web.svg"/>
+    src="web.svg"/>
     </a>
     <a href="https://www.reddit.com/r/IMS_Network/">
     <img alt="Reddit" title="Reddit" 
-    src="assets/reddit.svg"/>
+    src="reddit.svg"/>
     </a>
     <a href="https://www.facebook.com/IMSNetworkOfficial">
     <img alt="Facebook" title="Facebook" 
-    src="assets/facebook.svg"/>
+    src="facebook.svg"/>
     </a>
     <a href="mailto:team@ims-network.net?subject=[GitHub]">
     <img alt="Email" title="Email" 
-    src="assets/email.svg"/>
+    src="email.svg"/>
     </a>
 </p>
 
-<h2 align="right">אתרים שלנו 🌐</h2>
+<h2 align="left">Our Websites 🌐</h2>
 <p align="center">
     <a href="https://open-source.ims-network.net">
-    <img alt="אתר תודות וזכויות יוצרים" title="אתר תודות וזכויות יוצרים" 
-    src="assets/copyright.svg"/>
+    <img alt="OSS Copytight Website" title="OSS Copytight Website" 
+    src="copyright.svg"/>
     </a>
     <a href="https://mc-web.ims-network.net">
-    <img alt="שרתי מיינקראפט" title="שרתי מיינקראפט" 
-    src="assets/minecraft.svg"/>
+    <img alt="Minecraf Servers" title="Minecraf Servers" 
+    src="minecraft.svg"/>
     </a>
     <a href="https://alfine.ims-network.net/">
-    <img alt="פרוייקט אלפיין" title="פרוייקט אלפיין"
-    src="assets/alfine.svg"/>
+    <img alt="Project Alfine" title="Project Alfine"
+    src="alfine.svg"/>
     </a>
     <a href="https://status.ims-network.org/">
-    <img alt="סטטוס שירות" title="סטטוס שירות"
-    src="assets/sos.svg"/>
+    <img alt="Server Status" title="Server Status"
+    src="sos.svg"/>
     </a>
     <a href="https://fivem-web.ims-network.net">
-    <img alt="שרתי פייבאם" title="שרתי פייבאם"
-    src="assets/fivem.svg"/>
+    <img alt="FiveM Servers" title="FiveM Servers"
+    src="fivem.svg"/>
     </a>
     <a href="https://devs.ims-network.net">
-    <img alt="אתר מפתחים" title="אתר מפתחים"
-    src="assets/devs.svg"/>
+    <img alt="Devs Website" title="Devs Website"
+    src="devs.svg"/>
     </a>
     <a href="https://legal.ims-network.net">
-    <img alt="התקנון שלנו" title="התקנון שלנו"
-    src="assets/legal.svg"/>
+    <img alt="Legal Info" title="Legal Info"
+    src="legal.svg"/>
     </a>
 </p>
 
 <div align="center">
-<h1 style="font-size:25px">פרוייקטים שלנו 🦾</h1>
+<h1 style="font-size:25px"> Our Projects 🦾</h1>
 </div>
-<h2 align="right">פיתוח מיינקראפט ⚒</h2>
+<h2 align="left">Minecraft Development ⚒</h2>
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="278" 
@@ -94,7 +94,7 @@
     </a>
 </p>
 
-<h2 align="right">פיתוח פייבאם 🏙</h2>
+<h2 align="left">FiveM Development 🏙</h2>
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="278" 
@@ -103,7 +103,7 @@
     </a>
 </p>
 
-<h2 align="right">פיתוח אתרים 🌐</h2>
+<h2 align="left">Web Development 🌐</h2>
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="278" 
@@ -135,22 +135,18 @@
 <h2>Read It in your Language 🗺</h2>
     <a href="README_en.md">
     <img alt="English" title="English" 
-    src="assets/us.svg"/>
+    src="us.svg"/>
     </a>
     <a href="README_ar.md">
     <img alt="Arabic" title="عربي" 
-    src="assets/UAE.svg"/>
+    src="UAE.svg"/>
     </a>
     <a href="README_ru.md">
     <img alt="Russian" title="русские #нетвойны" 
-    src="assets/Russia.svg"/>
+    src="Russia.svg"/>
     </a>
     <a href="README_au.md">
     <img alt="Ukraine" title="Україна #ЗаУкраїну" 
     src="assets/Ukraine.svg"/>
     </a>
 </div>
-
-
-***
-# Hello Everyone 👋

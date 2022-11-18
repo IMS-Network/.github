@@ -1,8 +1,8 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
+name: "Feature Request \U0001F31F"
+about: We Love Licensing Your Ideas
+title: "[SUGGESTION]"
+labels: enhancement
 assignees: ''
 
 ---

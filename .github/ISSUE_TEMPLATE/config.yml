@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Main Website
+    url: https://ims-network.org
+    about: Get In Toch Wtih Us On Our Main Website.
+  - name: Main Discord Server
+    url: https://discord.ims-network.net
+    about: Get In Toch Wtih Us On Our Main Discord Server.
+  - name: Report Vulnerabilities
+    url: mailto://security@ims-network.net
+    about: Please report security vulnerabilities here.

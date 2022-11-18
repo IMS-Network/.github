@@ -4,7 +4,7 @@ about: Got Any Questions For Us? Fill Free To Ask :)
 title: "[QUESTION]"
 labels: help wanted, question
 assignees: ''
----
+
 body:
   - type: markdown
     attributes:
@@ -53,5 +53,5 @@ body:
       options:
         - label: I agree
           required: true
-
+---
 

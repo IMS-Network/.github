@@ -141,7 +141,7 @@
 <h2>Read It in your Language 🗺</h2>
     <a href="profile/README.md">
     <img alt="עברית" title="עברית" 
-    src="photos/israel.svg"/>
+    src="photos/Israel.svg"/>
     </a>
     <a href="README_ar.md">
     <img alt="Arabic" title="عربي" 

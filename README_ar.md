@@ -105,27 +105,32 @@
 
 <h2 align="right">تطوير الشبكة 🌐</h2>
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/ims-network/IMS-Legal">
     <img width="278" 
     src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ims-network&repo=IMS-Legal&&theme=dark&hide_border=true" 
     alt="Github-readme-stats">
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/ims-network/IMS-Jobs">
     <img width="278" 
     src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ims-network&repo=IMS-Jobs&&theme=dark&hide_border=true" 
     alt="Github-readme-stats">
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/ims-network/IMS-Devs">
     <img width="278" 
     src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ims-network&repo=IMS-Devs&&theme=dark&hide_border=true" 
     alt="Github-readme-stats">
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/ims-network/IMS-Blog">
     <img width="278" 
     src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ims-network&repo=IMS-Blog&&theme=dark&hide_border=true" 
     alt="Github-readme-stats">
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/ims-network/IMS-Copyrights">
+    <img width="278" 
+    src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ims-network&repo=IMS-Copyrights&&theme=dark&hide_border=true" 
+    alt="Github-readme-stats">
+    </a>
+    <a href="https://github.com/ims-network/Playit.gg-Docs">
     <img width="278" 
     src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ims-network&repo=Playit.gg-Docs&&theme=dark&hide_border=true" 
     alt="Github-readme-stats">
@@ -135,7 +140,7 @@
 <h2>Read It in your Language 🗺</h2>
     <a href="profile/README.md">
     <img alt="עברית" title="עברית" 
-    src="photos/israel.svg"/>
+    src="photos/Israel.svg"/>
     </a>
     <a href="README_en.md">
     <img alt="English" title="English" 

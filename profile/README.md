@@ -195,6 +195,14 @@
     <img alt="Russian" title="русские #нетвойны" 
     src="photos/Russia.svg"/>
     </a>
+    <a href="README_hi.md">
+    <img alt="India" title="India" 
+    src="photos/India.svg"/>
+    </a>
+    <a href="README_es.md">
+    <img alt="Spain" title="Spain" 
+    src="photos/spain.svg"/>
+    </a>
     <a href="README_au.md">
     <img alt="Ukraine" title="Україна #ЗаУкраїну" 
     src="photos/Ukraine.svg"/>

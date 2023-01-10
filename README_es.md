@@ -1,21 +1,20 @@
 <!-- Welcome Text -->
 <div align="center">
-<h1 style="font-size:40px">Ласкаво просимо <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+<h1 style="font-size:40px">Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 </h1>
-<h2 style="font-size:25px"><a href="https://ukraine.ua/">#ЗаУкраїну 💘</a></h2>
 <div>
 <p align="center">
 
-Ми IMS - мережа. 👋\
-Найдосконаліша ігрова спільнота в Ізраїлі 🌐\
-Ми — група людей, які витрачають час на вдосконалення наших серверів і ізраїльської ігрової спільноти. ✌️\
-Ми будуємо, розвиваємо та підтримуємо передову ігрову спільноту.😇\
-Вся наша команда робить це охоче, наша мета - охопити якомога більше ігор і забезпечити найкращу якість і безпеку гри. 🤩\
-Єдина ігрова спільнота в Ізраїлі, яка ставить конфіденційність і безпеку на перше місце. 🔐
+Somos IMS - Network. 👋\
+La comunidad de juegos más avanzada de Israel 🌐\
+Somos un grupo de personas que invertimos tiempo en mejorar nuestros servidores y la comunidad de juego israelí. ✌️\
+Creamos, desarrollamos y mantenemos una comunidad de juegos avanzada.😇\
+Todo nuestro equipo lo hace con gusto, nuestro objetivo es cubrir la mayor cantidad de juegos posible y garantizar la mejor calidad y seguridad del juego. 🤩\
+La única comunidad de juegos en Israel que prioriza la privacidad y la seguridad. 🔐
 
 </p>
 
-<h2 align="left">Зв'яжіться з нами 📞</h2>
+<h2 align="left">Contacta con nosotros 📞</h2>
 <p align="center">
     <a href="https://twitter.com/network_ims">
     <img alt="Twitter" title="Twitter" 
@@ -46,7 +45,7 @@
     </a>
 </p>
 
-<h2 align="left">Наші сайти 🌐</h2>
+<h2 align="left">Nuestros sitios web 🌐</h2>
 <p align="center">
     <a href="https://open-source.ims-network.net">
     <img alt="OSS Copytight Website" title="OSS Copytight Website" 
@@ -79,9 +78,9 @@
 </p>
 
 <div align="center">
-<h1 style="font-size:25px">Наші проекти 🦾</h1>
+<h1 style="font-size:25px"> Nuestros Proyectos 🦾</h1>
 </div>
-<h2 align="left">Майнкрафт Розробка ⚒</h2>
+<h2 align="left">Desarrollo Minecraft ⚒</h2>
 <p align="center">
     <a href="https://github.com/IMS-Network/Oravell-Launcher">
     <img width="278" 
@@ -140,7 +139,7 @@
     </a>
 </p>
 
-<h2 align="left">FiveM Development 🏙</h2>
+<h2 align="left">Desarrollo FiveM 🏙</h2>
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="278" 
@@ -149,7 +148,7 @@
     </a>
 </p>
 
-<h2 align="left">Веб-розробка 🌐</h2>
+<h2 align="left">Desarrollo web 🌐</h2>
 <p align="center">
     <a href="https://github.com/ims-network/IMS-Legal">
     <img width="278" 
@@ -192,20 +191,16 @@
     <img alt="Arabic" title="عربي" 
     src="photos/UAE.svg"/>
     </a>
-    <a href="README_hi.md">
-    <img alt="India" title="India" 
-    src="photos/India.svg"/>
-    </a>
-    <a href="README_es.md">
-    <img alt="Spain" title="Spain" 
-    src="photos/spain.svg"/>
-    </a>
     <a href="README_ru.md">
     <img alt="Russian" title="русские #нетвойны" 
     src="photos/Russia.svg"/>
     </a>
-    <a href="README_en.md">
-    <img alt="English" title="English" 
-    src="photos/us.svg"/>
+    <a href="README_hi.md">
+    <img alt="India" title="India" 
+    src="photos/India.svg"/>
+    </a>
+    <a href="README_au.md">
+    <img alt="Ukraine" title="Україна #ЗаУкраїну" 
+    src="photos/Ukraine.svg"/>
     </a>
 </div>

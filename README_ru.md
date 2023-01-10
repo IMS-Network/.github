@@ -83,14 +83,59 @@
 </div>
 <h2 align="left">Разработка Майнкрафт ⚒</h2>
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/IMS-Network/Oravell-Launcher">
     <img width="278" 
     src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ims-network&repo=Minecraft&&theme=dark&hide_border=true" 
     alt="Github-readme-stats">
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/IMS-Network/Oravell-Plugins">
     <img width="278" 
     src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ims-network&repo=Oravell-Plugins&&theme=dark&hide_border=true" 
+    alt="Github-readme-stats">
+    </a>
+    <a href="https://github.com/IMS-Network/LockLoginPremium">
+    <img width="278" 
+    src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ims-network&repo=LockLoginPremium&&theme=dark&hide_border=true" 
+    alt="Github-readme-stats">
+    </a>
+    <a href="https://github.com/IMS-Network/IA-OtherPacks">
+    <img width="278" 
+    src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ims-network&repo=IA-OtherPacks&&theme=dark&hide_border=true" 
+    alt="Github-readme-stats">
+    </a>
+    <a href="https://github.com/IMS-Network/Triton">
+    <img width="278" 
+    src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ims-network&repo=Triton&&theme=dark&hide_border=true" 
+    alt="Github-readme-stats">
+    </a>
+    <a href="https://github.com/IMS-Network/Iris">
+    <img width="278" 
+    src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ims-network&repo=Iris&&theme=dark&hide_border=true" 
+    alt="Github-readme-stats">
+    </a>
+    <a href="https://github.com/IMS-Network/IA-DefaultPack">
+    <img width="278" 
+    src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ims-network&repo=IA-DefaultPack&&theme=dark&hide_border=true" 
+    alt="Github-readme-stats">
+    </a>
+    <a href="https://github.com/IMS-Network/PixelMOTD">
+    <img width="278" 
+    src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ims-network&repo=PixelMOTD&&theme=dark&hide_border=true" 
+    alt="Github-readme-stats">
+    </a>
+    <a href="https://github.com/IMS-Network/LockLogin">
+    <img width="278" 
+    src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ims-network&repo=LockLogin&&theme=dark&hide_border=true" 
+    alt="Github-readme-stats">
+    </a>
+    <a href="https://github.com/IMS-Network/Nova">
+    <img width="278" 
+    src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ims-network&repo=Nova&&theme=dark&hide_border=true" 
+    alt="Github-readme-stats">
+    </a>
+    <a href="https://github.com/IMS-Network/squaremap">
+    <img width="278" 
+    src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ims-network&repo=squaremap&&theme=dark&hide_border=true" 
     alt="Github-readme-stats">
     </a>
 </p>

@@ -1,32 +1,37 @@
 # Security Policy 🔒
-### About Us
-We are IMS - Network.\
-The Most Advanced Gaming Community In Israel.\
-We are a group of people who invest time in improving our servers and the Israeli gaming community.\
-We build, develop, and maintain an advanced gaming community.\
-All of our team does it willingly, our goal is to cover as many games as possible and ensure the best quality and safety of the game.\
-The only gaming community in Israel that puts privacy and safety first.
 
-***
-<div align="center">
-<p><span style="font-size:20px">Security Is Essential For Every </span><span style="font-size:24px"><strong>ORGANIZATION</strong></span><span style="font-size:20px"> Gaming Communities Don&#39;t Get Any </span><span style="font-size:24px"><strong>EXCEPTIONS</strong></span></p>
-</div>
+## About Us
 
-***
+We are IMS Network, the most advanced gaming cloud provider in Israel. Our mission is to deliver high-performance, secure, and accessible cloud gaming services. We understand the importance of security in the cloud gaming ecosystem and are committed to protecting our infrastructure, services, and users' data.
 
-## Our Security Providers ❤
-### Network Security By [Cloudflare](https://cloudflare.com)
-Cloudflare is a global network designed to make everything you connect to the Internet secure, private, fast, and reliable.\
-### Code Security By [Synk](https://synk.io)
-The Snyk platform quickly finds and fixes security issues in proprietary code, open source dependencies, container images, and cloud infrastructure
-so businesses can build security directly into their CD process.
+## Reporting a Vulnerability
 
-# Vulnerabilitie Response 🚨
-## Critical Vulnerabilities ⭕
-**Fix Time** We Try To Fix Critical Vulnerabilities In 2 Business Days
-## High Vulnerabilities 🔴
-**Fix Time** We Try To Fix High Vulnerabilities In 7 Business Days
-## Medium Vulnerabilities 🟠
-**Fix Time** We Try To Fix Medium Vulnerabilities In 12 Business Days
-### How To Report ⁉
-security@ims-network.net
+We encourage responsible disclosure of any security vulnerabilities in our services or infrastructure. If you believe you have discovered a potential security issue, please get in touch with us at security@ims-network.net.
+
+### What to Include in Your Report
+
+- A comprehensive description of the potential vulnerability.
+- Detailed steps to reproduce the issue, including any tools, scripts, or data needed for verification.
+- Any relevant screenshots, videos, or logs.
+- Your contact information for any follow-up questions.
+
+### What to Expect After Reporting
+
+- I'd like to let you know that I'm acknowledging your report within 3 business days.
+- An initial assessment of the report and, if applicable, an estimated time frame for addressing the vulnerability.
+- Regular updates on our progress toward resolving the issue.
+- Public recognition of your contribution to our Security Hall of Fame, unless you prefer to remain anonymous.
+
+## Security Hall of Fame
+
+Contributors who help us identify and address security vulnerabilities are invaluable to our mission. We recognize the efforts of these individuals in our Security Hall of Fame as a token of our appreciation.
+
+## Policy Updates
+
+Our security policy is subject to periodic review and updates to ensure it aligns with best practices and our commitment to security. We'd like to encourage you to review this document regularly.
+
+## Contact Us
+
+For any questions regarding this policy or the security of our services, please get in touch with us at security@ims-network.net.
+
+Together, we can ensure a safer gaming cloud environment for all. Thank you for your support and cooperation.

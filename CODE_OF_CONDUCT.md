@@ -2,93 +2,68 @@
 
 ## 1. Purpose
 
-A primary goal of ims-network is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
-
-This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
-
-We invite all those who participate in ims-network to help us create safe and positive experiences for everyone.
+IMS-Network is committed to fostering an inclusive environment that welcomes contributors from diverse backgrounds. We aim to create a friendly, safe, and welcoming space for everyone, irrespective of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religious beliefs (or lack thereof). This Code of Conduct outlines our expectations for participant behavior and the steps for reporting unacceptable actions to ensure a positive experience for everyone involved in our community.
 
 ## 2. Open [Source/Culture/Tech] Citizenship
 
-A supplemental goal of this Code of Conduct is to increase open [source/culture/tech] citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
-
-Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
-
-If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
+A vital aim of this Code of Conduct is to promote open citizenship in [source/culture/tech], encouraging participants to acknowledge the impact of their actions on our community. We believe in taking positive steps to counter inequality and abuses of power. Acknowledging and valuing efforts to make our community welcoming and inclusive is crucial.
 
 ## 3. Expected Behavior
 
-The following behaviors are expected and requested of all community members:
+We expect all community members to:
 
- * Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
- * Exercise consideration and respect in your speech and actions.
- * Attempt collaboration before conflict.
- * Refrain from demeaning, discriminatory, or harassing behavior and speech.
- * Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
- * Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
+- Engage authentically and actively, contributing positively to our community's health and longevity.
+- Practice respect and consideration in speech and actions.
+- Emphasize collaboration over conflict.
+- Avoid demeaning, discriminatory, or harassing behavior and speech.
+- Be mindful of fellow participants and surroundings. Report any concerning behavior or unsafe situations to community leaders.
 
 ## 4. Unacceptable Behavior
 
-The following behaviors are considered harassment and are unacceptable within our community:
+Unacceptable behaviors include, but are not limited to:
 
- * Violence, threats of violence or violent language directed against another person.
- * Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
- * Posting or displaying sexually explicit or violent material.
- * Posting or threatening to post other people's personally identifying information ("doxing").
- * Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
- * Inappropriate photography or recording.
- * Inappropriate physical contact. You should have someone's consent before touching them.
- * Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
- * Deliberate intimidation, stalking or following (online or in person).
- * Advocating for, or encouraging, any of the above behavior.
- * Sustained disruption of community events, including talks and presentations.
+- Violence or threats thereof, discriminatory language or actions.
+- Posting sexually explicit or violent material.
+- Doxing or threats to disclose personal information.
+- Personal insults or unwelcome attention of any kind.
+- Intimidation, stalking, or following.
+- Advocating for or encouraging any of the above behaviors.
 
 ## 5. Weapons Policy
 
-No weapons will be allowed at ims-network events, community spaces, or in other spaces covered by the scope of this Code of Conduct. Weapons include but are not limited to guns, explosives (including fireworks), and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon. Community members are further expected to comply with all state and local laws on this matter.
+No weapons are permitted at any IMS-Network events or spaces. This includes firearms, explosives, large knives, and other items intended to cause harm. Possession of such items will result in immediate expulsion and a future ban without the item.
 
 ## 6. Consequences of Unacceptable Behavior
 
-Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
-
-Anyone asked to stop unacceptable behavior is expected to comply immediately.
-
-If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).
+Unacceptable behavior from any community member will not be tolerated. Failure to cease such behavior upon request will result in actions deemed appropriate by community organizers, including expulsion without refund for paid events.
 
 ## 7. Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. support@ims-network.net.
+To report unacceptable behavior or concerns:
 
-[Reporting guidelines](https://ims-network.org/contact.html)
+- Contact a community organizer at support@ims-network.net.
+- Visit [Reporting guidelines](https://ims-network.org/contact.html) for more details.
 
-Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
+Organizers are also prepared to assist with engaging local law enforcement and ensuring those experiencing distress feel safe.
 
 ## 8. Addressing Grievances
 
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify IMS-Network with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. [Policy](https://legal.ims-network.net)
+If you believe you've been falsely accused of violating this Code of Conduct, please get in touch with IMS-Network with your grievance for consideration according to our governing policies. [Policy](https://legal.ims-network.net)
 
-We Ore Open To Feedback
+## We Are Open To Feedback
+
+Your feedback helps us grow and improve. Please share your thoughts and suggestions to help us foster a more inclusive and safe environment.
 
 ## 9. Scope
 
-We expect all community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues--online and in-person--as well as in all one-on-one communications pertaining to community business.
-
-This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
+This Code of Conduct applies to all community participants in every venue, online and in-person, and extends to all one-on-one communications related to community business. It also covers unacceptable behavior occurring outside community activities when it adversely affects community safety and well-being.
 
 ## 10. Contact info
 
-support@ims-network.net
+For any inquiries or concerns, reach out to us at support@ims-network.net.
 
 ## 11. License and attribution
 
-The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
+This Citizen Code of Conduct is adapted from the [Stumptown Syndicate](http://stumptownsyndicate.org) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/), with portions derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
 
-Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
-
-_Revision 2.3. Posted 6 March 2017._
-
-_Revision 2.2. Posted 4 February 2016._
-
-_Revision 2.1. Posted 23 June 2014._
-
-_Revision 2.0, adopted by the [Stumptown Syndicate](http://stumptownsyndicate.org) board on 10 January 2013. Posted 17 March 2013._
+_Revisions included for clarity, inclusivity, and accessibility._

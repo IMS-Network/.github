@@ -9,7 +9,7 @@
 אנחנו IMS - Network. 👋\
 איי.אמ.אס היא ספקית תשתית גלובלית, המציעה טכנולוגיות מתקדמות המאפשרות לכם להתמקד בעסק שלכם.\
 הענן שלנו מורכב מ-60+ נקודות תשתית ברחבי העולם, כך שאנחנו זמינים ללקוחות שלכם בכל מקום בעולם.\
-תשתית פשוטה, מאובטחת וממוקדת בפרטיות היא הדרך שלנו לספק לכם את הביטחון והשקט הנפשי שאתם צריכים כדי להצליח.\
+תשתית פשוטה, מאובטחת וממוקדת בפרטיות היא הדרך שלנו לספק לכם את הביטחון והשקט הנפשי שאתם צריכים כדי להצליח.
 </p>
 
 <h2 align="right">צרו קשר 📞</h2>
@@ -22,7 +22,7 @@
     <img alt="Instagram" title="Instagram" 
     src="photos/Instagram.svg"/>
     </a>
-    <a href="https://discord.gg/QzGBm33CeM">
+    <a href="https://discord.ims-network.net">
     <img alt="Discord" title="Discord" 
     src="photos/discord.svg"/>
     <a href="https://ims-network.org">
@@ -43,37 +43,7 @@
     </a>
 </p>
 
-<h2 align="right">אתרים שלנו 🌐</h2>
-<p align="center">
-    <a href="https://open-source.ims-network.net">
-    <img alt="אתר תודות וזכויות יוצרים" title="אתר תודות וזכויות יוצרים" 
-    src="photos/copyright.svg"/>
-    </a>
-    <a href="https://mc-web.ims-network.net">
-    <img alt="שרתי מיינקראפט" title="שרתי מיינקראפט" 
-    src="photos/minecraft.svg"/>
-    </a>
-    <a href="https://alfine.ims-network.net/">
-    <img alt="פרוייקט אלפיין" title="פרוייקט אלפיין"
-    src="photos/alfine.svg"/>
-    </a>
-    <a href="https://status.ims-network.org/">
-    <img alt="סטטוס שירות" title="סטטוס שירות"
-    src="photos/sos.svg"/>
-    </a>
-    <a href="https://fivem-web.ims-network.net">
-    <img alt="שרתי פייבאם" title="שרתי פייבאם"
-    src="photos/fivem.svg"/>
-    </a>
-    <a href="https://devs.ims-network.net">
-    <img alt="אתר מפתחים" title="אתר מפתחים"
-    src="photos/devs.svg"/>
-    </a>
-    <a href="https://legal.ims-network.net">
-    <img alt="התקנון שלנו" title="התקנון שלנו"
-    src="photos/legal.svg"/>
-    </a>
-</p>
+
 
 
 <div align="center">
